@@ -1,0 +1,19 @@
+{
+  "name": "lucommunitybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattTheCuber/LUCommunityBot.git"
+  },
+  "author": "Liberty University Community",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattTheCuber/LUCommunityBot/issues"
+  },
+  "homepage": "https://github.com/MattTheCuber/LUCommunityBot#readme"
+}
