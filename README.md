@@ -13,3 +13,6 @@
 > 3. `git push`
 
  - And create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+
+# How can I test my fork?
+I have setup a testing bot with **very** limited permissions in the server for testing purposes. In your project folder create a file named `.env` and write the following line in it: `TOKEN=ODgyOTU5MjMzMjE2Mjk5MDQ4.YTC93Q.HPD8G7yE1dh5DJ56MTO-2WzfjiA` and save the file. When you go to run your code (`node index.js`), the testing bot should come online and will be running your code on your computer.
