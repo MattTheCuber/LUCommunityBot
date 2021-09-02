@@ -77,6 +77,6 @@ async function run(client, interaction) {
 
 module.exports = {
   name: 'pray',
-  id: '883063780387487744',
+  id: '883095123443986462',
   run,
 };
