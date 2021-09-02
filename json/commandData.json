@@ -2,5 +2,9 @@
   {
     "name": "test",
     "description": "Test command"
+  },
+  {
+    "name": "pray",
+    "description": "Fetch the latest prayer request from the Liberty website"
   }
 ]
