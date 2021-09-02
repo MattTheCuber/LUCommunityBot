@@ -1,5 +1,7 @@
 # Liberty University Community Bot
 
+Just getting started? Make sure to [read this](https://discord.com/channels/882719457963831377/882947607696121918/882951868295295006).
+
 # How can I contribute?
 
  - Make sure you know JavaScript and discord.js. More information [here](https://discord.com/channels/882719457963831377/882947607696121918/882951868295295006).
