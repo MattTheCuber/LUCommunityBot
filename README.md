@@ -2,11 +2,15 @@
 
 Just getting started? Make sure to [read this](https://discord.com/channels/882719457963831377/882947607696121918/882951868295295006).
 
+# Important information
+./root/commandData.json holds
+
 # How can I contribute?
 
  - Make sure you know JavaScript and discord.js. More information [here](https://discord.com/channels/882719457963831377/882947607696121918/882951868295295006).
  - Next, fork the project following [this guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
   - Make sure to setup [node.js](https://nodejs.org/en/), and [Git](https://git-scm.com/) during this step.
+  - Also, run `npm install` to install the required packages after you clone.
  - Then, write some code or modify the existing code and push your changes to your fork of the repository.
 
 > How to push code to a repository:

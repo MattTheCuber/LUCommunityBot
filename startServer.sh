@@ -1,0 +1,1 @@
+nodemon ./index.js > "./log-$(date +%Y-%m-%d-%T).log"
