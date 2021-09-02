@@ -28,7 +28,11 @@ module.exports = async (client) => {
       // eslint-disable-next-line global-require, import/no-dynamic-require
       const pull = require(`../commands/${dir}/${file}`);
 
-      if (slashCommands[pull.id]) {
+
+      if (pull.id === 'classic') {
+        table.addRow(pull.name, '✅ Command Loaded!');
+        client.commands.set(pull.name, pull);
+      } else if (slashCommands[pull.id]) {
         table.addRow(pull.name, '✅ Command Loaded!');
 
         pull.description = slashCommands[pull.id].description || '';
