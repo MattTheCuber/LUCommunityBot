@@ -8,6 +8,7 @@ module.exports = async (client) => {
   await require('../handlers/command')(client);
 
   await client.guilds.cache.get('882719457963831377')?.commands.set(commandData);
+  await client.guilds.cache.get('880877029443137607')?.commands.set(commandData);
 
   client.user.setPresence({
     status: 'online',
